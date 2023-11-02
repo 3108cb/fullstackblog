@@ -9,17 +9,19 @@ Use npm to install depdencies
 `npm install firebase`
 `npm install react-router-dom`
 
-# Step 4
+# Step 3
 In firebase turn on google sign in authentication and firestore databases
 
-# Step 5
+# Step 4
 In the source folder go to `/src/firebase-config.js`
 
 Change the `const firebaseConfig = { 
 Your Firebase config here
 }`
 
-# Step 6
+# Step 5
+
+`npm start`
 
 ENJOY, THE PROJECT SHOULD NOW RUN! You can message @csss on discord if you have any problems! :)
 
